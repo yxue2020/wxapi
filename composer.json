@@ -1,0 +1,11 @@
+{
+    "name": "huangchao/wxplib",
+    "description": "weixin php library",
+    "authors": [
+        {
+            "name": "huangchao",
+            "email": "ftchao@local.com.cn"
+        }
+    ],
+    "require": {}
+}
